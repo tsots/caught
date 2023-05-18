@@ -2,7 +2,7 @@
 const nextConfig = {
   pageExtensions: ["js", "jsx", "md", "mdx"],
   output: "export",
-  //   basePath: "/caught",
+  basePath: "/caught",
   experimental: {
     mdxRs: true,
   },
