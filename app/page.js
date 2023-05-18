@@ -1,6 +1,7 @@
 import Image from "next/image";
 import styles from "./page.module.css";
 import About from "./about/page.mdx";
+import "./styles/myMdx.css";
 
 export default function Home() {
   return (
